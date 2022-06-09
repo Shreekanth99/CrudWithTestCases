@@ -23,4 +23,4 @@ jobs:
       # Add or replace database setup steps her
       # Add or replace test runners here
       - name: Run ruby test
-        run: bin/rake
+        run: bin/rails test
